@@ -1,8 +1,7 @@
-# Grupo7 
+# Grupo7
+Lautaro Da Rosa
 
 Victoria Bonelli
-
-Lautaro Da Rosa
 
 Luis Pedro Gaudiano
 
@@ -11,3 +10,4 @@ Luis Pedro Gaudiano
 
 
 -
+
